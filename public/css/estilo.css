@@ -1,0 +1,34 @@
+:root {
+    --title-color: #3221153;
+    --primary-color: #34cd79;
+}
+
+/*Margin Padrão*/
+* {   
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background: #f0f0f5;
+    -webkit-font-smoothing: antialiased;
+}
+
+/* link sem traço*/
+a {
+    text-decoration: none;
+}
+
+/*formatação do H1 ao H6*/
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Ubuntu', sans-serif;
+    color: var(--title-color);
+}
+
+
+
