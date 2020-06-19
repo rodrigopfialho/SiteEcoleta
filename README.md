@@ -1,2 +1,3 @@
 # SiteEcoleta
-# Este é um site desenvolvido em video aula 
+# Este é um site desenvolvido em vídeo aula 
+# 
